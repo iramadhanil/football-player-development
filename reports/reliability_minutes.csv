@@ -1,0 +1,28 @@
+position_group,metric,label,player_seasons,median_half_minutes,split_half_r,full_season_reliability,minutes_for_0.7
+DF,np_xg,Non-penalty xG,210,710.468,0.398,0.569,2507.656
+DF,shots,Shots,210,710.468,0.538,0.699,1424.385
+DF,xa,Expected assists (xA),210,710.468,0.625,0.769,996.544
+DF,progressive_passes,Progressive passes,210,710.468,0.78,0.877,466.896
+DF,progressive_carries,Progressive carries,210,710.468,0.75,0.857,554.001
+DF,dribbles_completed,Completed dribbles,210,710.468,0.601,0.751,1099.068
+DF,pressures,Pressures,210,710.468,0.844,0.915,306.98
+DF,ball_recoveries,Ball recoveries,210,710.468,0.628,0.771,982.876
+DF,tackles_interceptions,Tackles + interceptions won,210,710.468,0.546,0.706,1379.828
+MF,np_xg,Non-penalty xG,161,671.085,0.671,0.803,767.911
+MF,shots,Shots,161,671.085,0.747,0.855,529.274
+MF,xa,Expected assists (xA),161,671.085,0.588,0.741,1095.319
+MF,progressive_passes,Progressive passes,161,671.085,0.728,0.843,583.854
+MF,progressive_carries,Progressive carries,161,671.085,0.83,0.907,321.683
+MF,dribbles_completed,Completed dribbles,161,671.085,0.646,0.785,857.404
+MF,pressures,Pressures,161,671.085,0.736,0.848,562.29
+MF,ball_recoveries,Ball recoveries,161,671.085,0.506,0.672,1526.99
+MF,tackles_interceptions,Tackles + interceptions won,161,671.085,0.516,0.681,1469.37
+FW,np_xg,Non-penalty xG,116,646.468,0.682,0.811,703.942
+FW,shots,Shots,116,646.468,0.709,0.829,620.361
+FW,xa,Expected assists (xA),116,646.468,0.639,0.78,853.363
+FW,progressive_passes,Progressive passes,116,646.468,0.781,0.877,423.809
+FW,progressive_carries,Progressive carries,116,646.468,0.8,0.889,377.269
+FW,dribbles_completed,Completed dribbles,116,646.468,0.646,0.785,827.195
+FW,pressures,Pressures,116,646.468,0.7,0.823,647.2
+FW,ball_recoveries,Ball recoveries,116,646.468,0.492,0.66,1557.247
+FW,tackles_interceptions,Tackles + interceptions won,116,646.468,0.559,0.717,1188.113

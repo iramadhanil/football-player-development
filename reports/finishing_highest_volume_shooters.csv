@@ -1,0 +1,16 @@
+player_name,team,shots,goals,xg,raw_ratio,shrunk_ratio,low,high,shrunk_ratio_wide,low_wide,high_wide
+Vivianne Miedema,Arsenal WFC,296,57,48.329,1.179,1.001,0.999,1.002,1.079,0.954,1.207
+Bethany England,Tottenham Hotspur Women,196,34,34.185,0.995,1.001,0.999,1.002,0.999,0.87,1.131
+Sam Kerr,Chelsea FCW,124,26,25.393,1.024,1.001,0.999,1.002,1.007,0.873,1.147
+Chloe Kelly,Manchester City WFC,188,22,19.809,1.111,1.001,0.999,1.002,1.027,0.887,1.173
+Ellen White,Manchester City WFC,118,22,19.739,1.115,1.001,0.999,1.002,1.028,0.887,1.174
+Lauren Hemp,Manchester City WFC,137,24,19.625,1.223,1.001,0.999,1.002,1.054,0.911,1.202
+Nikita Parris,Manchester United W,107,23,18.934,1.215,1.001,0.999,1.002,1.051,0.908,1.199
+Francesca Kirby,Chelsea FCW,130,24,18.522,1.296,1.001,0.999,1.002,1.069,0.924,1.219
+Georgia Stanway,Manchester City WFC,157,20,17.38,1.151,1.001,0.999,1.002,1.034,0.89,1.182
+Bethany Mead,Arsenal WFC,149,22,17.328,1.27,1.001,0.999,1.002,1.059,0.914,1.21
+Martha Thomas,Tottenham Hotspur Women,122,15,16.816,0.892,1.001,0.999,1.002,0.978,0.838,1.123
+Danielle van de Donk,Arsenal WFC,74,17,15.32,1.11,1.001,0.999,1.002,1.022,0.878,1.172
+Erin Cuthbert,Chelsea FCW,153,14,14.303,0.979,1.001,0.999,1.002,0.997,0.853,1.146
+Jordan Nobbs,Aston Villa W,119,20,14.204,1.408,1.001,0.999,1.002,1.077,0.927,1.231
+Alessia Russo,Arsenal WFC,92,14,13.376,1.047,1.001,0.999,1.002,1.009,0.864,1.16

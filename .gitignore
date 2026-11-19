@@ -1,0 +1,9 @@
+# StatsBomb data is downloaded by each user, never committed (see the data licence in README)
+data/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/

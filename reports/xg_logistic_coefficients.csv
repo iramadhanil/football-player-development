@@ -1,0 +1,38 @@
+term,coefficient,odds_ratio
+technique_Lob,1.8862,6.5944
+technique_Backheel,-1.6769,0.187
+shot_type_infrequent_sklearn,1.6214,5.0604
+shot_type_Open Play,-1.5922,0.2035
+log_distance,-0.8448,0.4297
+technique_Diving Header,0.8172,2.2641
+technique_Volley,-0.5706,0.5652
+play_pattern_From Goal Kick,0.3655,1.4413
+is_header,-0.3134,0.731
+technique_Half Volley,-0.2806,0.7553
+angle,0.2694,1.3092
+technique_infrequent_sklearn,-0.2598,0.7712
+n_def_in_cone,-0.2448,0.7829
+shot_type_Free Kick,-0.1865,0.8299
+play_pattern_From Throw In,-0.1849,0.8312
+n_opp_within_3,-0.1742,0.8402
+play_pattern_From Corner,-0.1727,0.8414
+play_pattern_From Counter,-0.1296,0.8784
+play_pattern_Other,-0.105,0.9003
+assist_cut_back,-0.1022,0.9029
+assist_through_ball,0.0997,1.1048
+gk_in_cone,-0.0864,0.9172
+gk_dist_to_goal,0.0829,1.0864
+technique_Normal,-0.0727,0.9298
+other_body_part,-0.0687,0.9336
+play_pattern_From Keeper,0.064,1.0661
+first_time,0.0547,1.0562
+one_on_one,0.0485,1.0497
+assisted,0.0474,1.0486
+play_pattern_Regular Play,0.037,1.0377
+under_pressure,-0.0263,0.974
+play_pattern_From Free Kick,-0.0252,0.9751
+follows_dribble,0.0197,1.0199
+open_goal,0.016,1.0161
+play_pattern_From Kick Off,-0.0064,0.9937
+assist_cross,-0.0064,0.9937
+frame_missing,0.0,1.0

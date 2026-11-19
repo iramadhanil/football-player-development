@@ -1,0 +1,13 @@
+check,passed,detail
+every match has events and lineups,True,"457 matches, 0 missing files"
+goals in events match final scores,True,0 of 457 matches differ (own goals included)
+team minutes equal 11 players x match length,True,ratio range 10.03-11.00; values below 11 come from red cards
+player minutes within 0-130,True,max 107.9 minutes
+one row per player per match,True,12919 player-match rows
+shot locations inside the pitch (0.5-yard tolerance),True,0 outside
+StatsBomb xG between 0 and 1,True,11816 shots
+goal flag matches shot outcome,True,1378 goals
+shots have a freeze frame (>= 98%),True,99.2% of shots
+every shooter has minutes in that match,True,0 shots without minutes
+main position known (< 0.5% unknown),True,19 player-match rows without a position (late substitutes with no events)
+event players found in minutes table,True,0 players with events but no minutes

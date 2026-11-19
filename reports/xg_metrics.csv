@@ -1,0 +1,7 @@
+model,evaluation,shots,goals,xg_total,log_loss,brier,roc_auc,calibration_error
+logistic_regression,"5-fold CV by match, 2018/19-2020/21",8205,898,892.9142,0.2951,0.0846,0.7743,0.0065
+gradient_boosting,"5-fold CV by match, 2018/19-2020/21",8205,898,879.0229,0.2975,0.0854,0.7696,0.0165
+statsbomb_xg (benchmark),"5-fold CV by match, 2018/19-2020/21",8205,898,854.9297,0.2931,0.0826,0.7743,0.0105
+logistic_regression,held-out season 2023/24,3506,402,380.296,0.3081,0.0888,0.7499,0.0111
+gradient_boosting,held-out season 2023/24,3506,402,386.4396,0.3116,0.0892,0.7469,0.0176
+statsbomb_xg (benchmark),held-out season 2023/24,3506,402,375.0889,0.2998,0.0859,0.7747,0.014

@@ -1,0 +1,10 @@
+metric,label,player_seasons,players,players_2plus_seasons,mean_per90,change_per_year,change_per_year_low,change_per_year_high,change_per_year_pct,between_player_sd,within_player_sd,icc,slope_sd,slope_lr_p_value,warnings
+np_xg,Non-penalty xG,487,303,117,0.1276,-0.0018,-0.0061,0.0026,-1.3954,0.0894,0.0682,0.632,0.0117,0.001,The MLE may be on the boundary of the parameter space.
+shots,Shots,487,303,117,1.2246,-0.0209,-0.0501,0.0083,-1.7107,0.6071,0.4578,0.6374,0.0784,0.074,The MLE may be on the boundary of the parameter space.
+xa,Expected assists (xA),487,303,117,0.0935,0.0006,-0.0028,0.004,0.6187,0.0551,0.0589,0.4662,0.0014,0.5844,The MLE may be on the boundary of the parameter space.
+progressive_passes,Progressive passes,487,303,117,3.252,-0.0134,-0.0735,0.0467,-0.412,1.2116,0.9612,0.6137,0.2656,0.0011,
+progressive_carries,Progressive carries,487,303,117,1.5433,-0.0274,-0.0724,0.0175,-1.7765,0.9742,0.6802,0.6723,0.2378,0.0,
+dribbles_completed,Completed dribbles,487,303,117,0.9731,-0.0846,-0.1064,-0.0627,-8.6899,0.5035,0.3263,0.7041,0.0274,0.2645,The MLE may be on the boundary of the parameter space.
+pressures,Pressures,487,303,117,15.8756,0.4904,0.3167,0.664,3.0887,3.7978,2.6162,0.6782,0.4579,0.2597,
+ball_recoveries,Ball recoveries,487,303,117,4.7661,-0.0547,-0.1029,-0.0065,-1.1479,0.7668,0.8386,0.4553,0.1588,0.02,
+tackles_interceptions,Tackles + interceptions won,487,303,117,1.853,-0.0227,-0.0507,0.0053,-1.2236,0.4943,0.4704,0.5248,0.0084,0.7252,The MLE may be on the boundary of the parameter space.
