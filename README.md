@@ -1,7 +1,5 @@
 # Football Player Development Analytics
 
-[![tests](https://github.com/iramadhanil/football-player-development/actions/workflows/tests.yml/badge.svg)](https://github.com/iramadhanil/football-player-development/actions/workflows/tests.yml)
-
 A reproducible Python pipeline on StatsBomb open data (FA Women's Super League, four seasons, 457 matches) that answers four questions a player-development analytics team asks every week:
 
 1. **How good was the chance?** An expected-goals (xG) model, validated on a season it never saw.
